@@ -1,0 +1,12 @@
+{
+  "name": "tanaka",
+  "address": {
+    "number": 12345678,
+    "state": "ja"
+  },
+  "workplace": {
+    "jr": {
+      "station": "ueno"
+    }
+  }
+}
